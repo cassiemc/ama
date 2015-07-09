@@ -2,9 +2,7 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read the Answered questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer!
-
-Anything means _anything_ - Personal questions. Money. Work. Life. Design. Code. Babies. Whatever.
+Go ahead, ask me anything. Anything means _anything_ - Personal questions. Money. Work. Life. Design. Babies. Whatever.
 
 I am the Design Director for Mozilla Foundation. I design, write, speak, hire, nitpick, laugh and grumble. 
 
